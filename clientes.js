@@ -48,4 +48,4 @@ const mulheres = [
     }
 ]
 
-module.exports = { homens, mulheres };
+module.exports = { homens,mulheres };
