@@ -9,6 +9,6 @@ function trocaLugar(array, i1, i2){
     return array;
 }
 
-console.log(trocaLugar(homens, 2, 0));
+// console.log(trocaLugar(homens, 2, 0));
 
 module.exports = { trocaLugar };
